@@ -1,1 +1,3 @@
-
+Plaintext
+User-agent: *
+Sitemap: https://ykgeex-tech.github.io/geex1/sitemap.xml
